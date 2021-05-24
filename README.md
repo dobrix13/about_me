@@ -1,5 +1,5 @@
 - 👋 Hi, I’m dobrix13 | avitolin@student.42wolfsburg.de
-- 👀 I’m interested in Game Development, Robotics
+- 👀 I’m interested in Game Development, Robotics, Motion Graphics etc.
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/aldis-vitolins-764558205/
